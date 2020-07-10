@@ -75,7 +75,7 @@ data_b = {
 }
 ```
 ---
-###Output data
+### Output data
 
  We will use the program as `data_c = update(data=data_a, other=data_b)` where `data_c` will be returned as the data below
  
